@@ -1,26 +1,132 @@
-const translations={
-ar:{
-home:"الرئيسية",services:"الخدمات",about:"عن الخدمة",contact:"اتصل بنا",
-heroTitle:"تزويد الديزل بجودة عالية وخدمة موثوقة",
-heroText:"نوفر حلول تزويد الديزل للمنازل والشركات والمصانع في عمان.",
+const translations = {
+ar: {
+home:"الرئيسية",
+services:"الخدمات",
+about:"عن الخدمة",
+contact:"اتصل بنا",
+orderNow:"اطلب الآن",
+
+heroTitle:"تزويد الديزل بثقة وجودة لا مثيل لها",
+heroText:"نقدم خدمات توريد وتوصيل الديزل للمنازل والشركات والمصانع في عمان، مع الالتزام بالجودة العالية والدقة في المواعيد والاعتمادية في كل عملية تزويد.",
+heroSmall:"وقود لحياة أفضل",
+heroButton:"اطلب عبر واتساب",
+servicesButton:"تعرف على خدماتنا",
+
+
 whyTitle:"لماذا نتميز؟",
-whyText:"تضمن جو وصول الديزل بأعلى جودة ودقة في المواعيد لجميع زبائننا في عمان، الأردن. نعتمد أحدث العدادات الرقمية لضمان الكمية المضبوطة بدقة فائقة.",
-expTitle:"خبرة واعتمادية في التزويد",
-expText:"نحن في جو نضع رضا العملاء وسلامتهم في مقدمة أولوياتنا. بفضل أسطولنا الحديث نضمن التزويد السريع والآمن.",
-contactTitle:"اتصل بنا",
-contactText:"تواصل معنا لمعرفة المزيد عن خدماتنا.",
-footer:"خدمات تزويد الديزل في عمان - الأردن"
+whyText:"نحرص في J Petrol على تقديم تجربة تزويد ديزل متميزة من خلال الالتزام بأعلى معايير الجودة والسلامة. نستخدم أحدث أنظمة القياس لضمان الكمية الدقيقة ونوفر خدمة توصيل سريعة تلبي احتياجات عملائنا.",
+
+servicesTitle:"خدماتنا",
+servicesText:"نوفر مجموعة متكاملة من خدمات تزويد الديزل المصممة لتلبية احتياجات الأفراد والشركات مع سرعة الاستجابة وجودة الخدمة.",
+
+service1Desc:"توصيل ديزل سريع وآمن عند الحاجة",
+service2Desc:"توصيل ديزل منزلي بجودة عالية بسعة 500 لتر",
+service3Desc:"تزويد منزلي بالديزل بسعة 1000 لتر",
+service4Desc:"حلول تزويد للمصانع والمباني التجارية",
+service5Desc:"تزويد المولدات بالوقود بشكل موثوق",
+service6Desc:"فحص سلامة خزانات الديزل",
+service7Desc:"تنظيم جدول توصيل شهري مناسب",
+service8Desc:"خدمات تنظيف وصيانة الخزانات",
+service1:"خدمة التوصيل الطارئ السريع",
+service2:"توصيل ديزل منزلي - سعة 500 لتر",
+service3:"توصيل ديزل منزلي - سعة 1000 لتر",
+service4:"تزويد ديزل للمصانع والمباني التجارية",
+service5:"تزويد المولدات الكهربائية بالوقود",
+service6:"فحص واختبار سلامة خزان الديزل",
+service7:"جدولة التوصيل الدوري الشهري",
+service8:"صيانة وتنظيف خزان الديزل",
+order:"اطلب الآن",
+ourSer:"تعرف على خدماتنا →",
+
+experienceTitle:"خبرة واعتمادية في التزويد",
+experienceText:"بفضل أسطولنا الحديث وفريقنا المتخصص، نضمن توفير الديزل للمنازل والمصانع والمنشآت التجارية بكفاءة عالية. هدفنا بناء علاقة طويلة الأمد مع عملائنا من خلال خدمة موثوقة وآمنة.",
+
+contactTitle:"تواصل معنا",
+contactText:"هل تحتاج إلى خدمة تزويد ديزل موثوقة؟ تواصل معنا الآن وسنكون جاهزين لخدمتك بأسرع وقت.",
+Call:"اتصل بنا",
+name:"الاسم",
+phone:"رقم الهاتف",
+message:"رسالتك",
+send:"إرسال الطلب عبر واتساب",
+contactWhatsappText:"تواصل معنا الآن",
+contactSubtitle:"لطلب خدمة توصيل الديزل",
+
+footerDescription:"حلول متكاملة لتزويد الديزل في عمان - الأردن",
+location:"عمان - الأردن",
+phoneFooter:"+962 7 8513 0700",
+whatsapp:"واتساب",
+contactWhatsapp:"واتساب",
+footer:"حلول متكاملة لتزويد الديزل في عمان - الأردن",
+quickLinks:"روابط الصفحات"
 },
-en:{
-home:"Home",services:"Services",about:"About Service",contact:"Contact Us",
-heroTitle:"High Quality Diesel Supply and Reliable Service",
-heroText:"We provide diesel supply solutions for homes, companies and factories in Amman.",
+
+en: {
+home:"Home",
+services:"Services",
+about:"About Service",
+contact:"Contact Us",
+orderNow:"Order Now",
+
+heroTitle:"Reliable Diesel Supply With Premium Quality",
+heroText:"We provide professional diesel supply and delivery services for homes, businesses, and factories in Amman, ensuring high quality, accurate timing, and reliable service.",
+heroSmall:"Fuel For A Better Life",
+heroButton:"Order via WhatsApp",
+servicesButton:"Explore Our Services",
+
+
 whyTitle:"Why Choose Us?",
-whyText:"JO guarantees diesel delivery with the highest quality and accurate timing for customers in Amman, Jordan.",
-expTitle:"Experience and Reliability in Supply",
-expText:"Customer satisfaction and safety are our priorities. Our modern fleet ensures fast and safe delivery.",
+whyText:"At J Petrol, we provide a premium diesel supply experience by maintaining the highest standards of quality and safety. Our modern measurement systems ensure accurate quantities with fast and reliable delivery.",
+
+servicesTitle:"Our Services",
+servicesText:"We provide a complete range of diesel supply solutions designed to meet individual and business needs with fast response and high-quality service.",
+
+service1Desc:"توصيل ديزل سريع وآمن عند الحاجة",
+service2Desc:"توصيل ديزل منزلي بجودة عالية بسعة 500 لتر",
+service3Desc:"تزويد منزلي بالديزل بسعة 1000 لتر",
+service4Desc:"حلول تزويد للمصانع والمباني التجارية",
+service5Desc:"تزويد المولدات بالوقود بشكل موثوق",
+service6Desc:"فحص سلامة خزانات الديزل",
+service7Desc:"تنظيم جدول توصيل شهري مناسب",
+service8Desc:"خدمات تنظيف وصيانة الخزانات",
+service1Desc:"Fast and safe emergency diesel delivery",
+service2Desc:"High quality home diesel delivery - 500 liters",
+service3Desc:"Reliable home diesel supply - 1000 liters",
+service4Desc:"Diesel solutions for factories and commercial buildings",
+service5Desc:"Reliable generator fuel supply",
+service6Desc:"Diesel tank safety inspection",
+service7Desc:"Monthly delivery scheduling",
+service8Desc:"Diesel tank cleaning and maintenance",
+service1:"Emergency Fast Delivery",
+service2:"Home Diesel Delivery - 500 Liters",
+service3:"Home Diesel Delivery - 1000 Liters",
+service4:"Diesel Supply for Factories and Commercial Buildings",
+service5:"Generator Fuel Supply",
+service6:"Diesel Tank Safety Inspection",
+service7:"Monthly Scheduled Delivery",
+service8:"Diesel Tank Cleaning and Maintenance",
+order:"Order Now",
+ourSer:"Discover our services →",
+
+experienceTitle:"Experience & Reliability in Supply",
+experienceText:"At J Petrol, we have the expertise and resources to provide high-quality diesel supply services. With our modern fleet and professional team, we ensure safe and timely delivery for homes, businesses, and factories.",
+experienceText:"With our modern fleet and professional team, we ensure efficient diesel delivery for homes, factories, and commercial facilities. Our goal is to build long-term relationships through safe and reliable service.",
+
 contactTitle:"Contact Us",
-contactText:"Contact us to learn more about our services.",
-footer:"Diesel supply services in Amman - Jordan"
+contactText:"Need reliable diesel supply? Contact us today and our team will be ready to provide the service you need.",
+contactSubtitle:"To request diesel delivery service",
+Call:"Call Us",
+contactWhatsapp:"WhatsApp",
+contactWhatsappText:"Contact us now",
+name:"Name",
+phone:"Phone Number",
+message:"Your Message",
+send:"Send Request via WhatsApp",
+
+footerDescription:"Professional diesel supply solutions in Amman - Jordan",
+location:"Amman - Jordan",
+phoneFooter:"+962 7 8513 0700",
+whatsapp:"WhatsApp",
+footer:"Professional diesel supply solutions in Amman - Jordan"
 }
 };
+// Service select options use service1-service8 keys
