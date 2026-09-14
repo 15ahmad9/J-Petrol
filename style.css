@@ -1227,3 +1227,28 @@ border-radius:15px;
     width: 100%;
   }
 }
+
+.hero-phone {
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding:15px 30px;
+  border-radius:45px;
+  background:rgba(255,255,255,.08);
+  border:1px solid rgba(255,255,255,.8);
+  color:white;
+  text-decoration:none;
+}
+.hero-phone svg{
+ width:32px;
+ height:32px;
+ fill:#15a349;
+}
+.hero-phone small{
+ display:block;
+ direction:ltr;
+}
+@media(max-width:768px){
+ .hero-buttons{flex-direction:column;align-items:stretch;}
+ .hero-phone,.hero-whatsapp,.hero-outline{justify-content:center;}
+}
