@@ -14,7 +14,7 @@ servicesButton:"تعرف على خدماتنا",
 
 
 whyTitle:"لماذا نتميز؟",
-whyText:"نحرص في J Petrol على تقديم تجربة تزويد ديزل متميزة تجمع بين الجودة، السلامة، والاعتمادية. نلتزم بأعلى معايير الخدمة ونستخدم أحدث أنظمة القياس والتقنيات الحديثة لضمان دقة الكميات وسلامة عمليات التزويد. كما نوفر خدمة توصيل سريعة ومرنة للمنازل والشركات والمصانع، مع فريق متخصص يحرص على تلبية احتياجات عملائنا في الوقت المناسب وبأفضل مستوى من الاحترافية.",
+whyText:"نحرص في جو على تقديم تجربة تزويد ديزل متميزة تجمع بين الجودة، السلامة، والاعتمادية. نلتزم بأعلى معايير الخدمة ونستخدم أحدث أنظمة القياس والتقنيات الحديثة لضمان دقة الكميات وسلامة عمليات التزويد. كما نوفر خدمة توصيل سريعة ومرنة للمنازل والشركات والمصانع، مع فريق متخصص يحرص على تلبية احتياجات عملائنا في الوقت المناسب وبأفضل مستوى من الاحترافية.",
 
 servicesTitle:"خدماتنا",
 servicesText:"نوفر مجموعة متكاملة من خدمات تزويد الديزل المصممة لتلبية احتياجات الأفراد والشركات مع سرعة الاستجابة وجودة الخدمة.",
@@ -53,10 +53,10 @@ contactSubtitle:"لطلب خدمة توصيل الديزل",
 
 footerDescription:"حلول متكاملة لتزويد الديزل في عمان - الأردن",
 location:"عمان - الأردن",
-phoneFooter:"+962 7 8513 0700",
+phoneFooter:"00962785130700",
 whatsapp:"واتساب",
 contactWhatsapp:"واتساب",
-footer:"حلول متكاملة لتزويد الديزل في عمان - الأردن",
+footer:" © 2026 J Petrol | جميع الحقوق محفوظة ",
 quickLinks:"روابط الصفحات"
 },
 
@@ -75,7 +75,7 @@ servicesButton:"Explore Our Services",
 
 
 whyTitle:"Why Choose Us?",
-whyText:"At J Petrol, we provide a premium diesel supply experience by maintaining the highest standards of quality and safety. Our modern measurement systems ensure accurate quantities with fast and reliable delivery.",
+whyText:"At Jo, we provide a premium diesel supply experience by maintaining the highest standards of quality and safety. Our modern measurement systems ensure accurate quantities with fast and reliable delivery.",
 
 servicesTitle:"Our Services",
 servicesText:"We provide a complete range of diesel supply solutions designed to meet individual and business needs with fast response and high-quality service.",
@@ -108,7 +108,7 @@ order:"Order Now",
 ourSer:"Discover our services →",
 
 experienceTitle:"Experience & Reliability in Supply",
-experienceText:"At J Petrol, we have the expertise and resources to provide high-quality diesel supply services. With our modern fleet and professional team, we ensure safe and timely delivery for homes, businesses, and factories.",
+experienceText:"At Jo, we have the expertise and resources to provide high-quality diesel supply services. With our modern fleet and professional team, we ensure safe and timely delivery for homes, businesses, and factories.",
 experienceText:"With our modern fleet and professional team, we ensure efficient diesel delivery for homes, factories, and commercial facilities. Our goal is to build long-term relationships through safe and reliable service.",
 
 contactTitle:"Contact Us",
@@ -122,11 +122,12 @@ phone:"Phone Number",
 message:"Your Message",
 send:"Send Request via WhatsApp",
 
-footerDescription:"Professional diesel supply solutions in Amman - Jordan",
+footerDescription:"Jo provides reliable diesel supply solutions for homes, businesses and factories in Amman - Jordan.",
 location:"Amman - Jordan",
 phoneFooter:"+962 7 8513 0700",
 whatsapp:"WhatsApp",
-footer:"Professional diesel supply solutions in Amman - Jordan"
+footer:"© 2026 J Petrol | All Rights Reserved.",
+quickLinks:"Quick Links"
 }
 };
 // Service select options use service1-service8 keys

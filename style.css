@@ -318,6 +318,8 @@ button,
 
 .section-title {
   font-weight: 800;
+      justify-content: center;
+    display: flex;
 }
 
 .split.dark {
